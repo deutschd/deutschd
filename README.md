@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @deutschd
+- 👋 Hi, I’m Shakhzod Ismailov!
 - 👀 I’m interested in programming, reading, painting
 - 🌱 I’m currently learning Python, HTML, CSS, JS, ReactJS
 - 💞️ I’m looking to collaborate on advanced projects
